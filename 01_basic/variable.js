@@ -57,7 +57,7 @@ console.table([accountId,accountEmail,accountPassword,accountCity,accounStaste])
 
 
 /**
- * prefer not t
- * 
- * 
+ * prefer not to use var
+ * because of issues in block scope and functional scope
+ *
  */
